@@ -12,9 +12,11 @@ I’m a Internet Geek based in INDIA . I love Internet Things And Web Developmen
 
 ## 🛠️ Skills
 
-- **Languages**: Html, Css, JavaScript, Python, etc.
-- **Frameworks**: React, Node.js, etc.
-- **Tools**: Git, Docker, etc.
+| Languages      | Frameworks     | Tools         |
+|----------------|----------------|---------------|
+| JavaScript     | React          | Git           |
+| Python         | Node.js        | Docker        |
+| Java           | Django         | VS Code       |
 
 ## 🌐 Connect with Me
 
@@ -28,5 +30,4 @@ I’m a Internet Geek based in INDIA . I love Internet Things And Web Developmen
 
 ## 🌈 Projects
 
-- [Project 1](link-to-project) - Brief description.
-- [Project 2](link-to-project) - Brief description.
+
