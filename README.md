@@ -1,30 +1,30 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Rahul Patel
 
-![Profile Banner](link-to-your-banner-image)
+![Profile Banner](https://avatars.githubusercontent.com/u/121507850?v=4)
 
 ## 🌟 About Me
 
-I’m a [Your Role] based in [Your Location]. I love [briefly describe your interests].
+I’m a Internet Geek based in INDIA . I love Internet Things And Web Development.
 
-- 🔭 Currently working on [Current Project/Tech Stack].
-- 🌱 Learning [New Skills or Technologies].
-- 👯 Open to collaboration on [Type of Projects].
+- 🔭 Currently working on Web Development .
+- 🌱 Learning Mern Stack and Full Stack .
+- 👯 Open to collaboration on Fronted Backend any type.
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Python, etc.
+- **Languages**: Html, Css, JavaScript, Python, etc.
 - **Frameworks**: React, Node.js, etc.
 - **Tools**: Git, Docker, etc.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website](your-website)
+- [LinkedIn](https://www.linkedin.com/in/therahulpatel)
+- [Twitter](#)
+- [Personal Website](#)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=therahul-patel&show_icons=true&theme=radical)
 
 ## 🌈 Projects
 
