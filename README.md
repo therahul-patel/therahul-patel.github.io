@@ -22,7 +22,7 @@ I’m a Internet Geek based in INDIA . I love Internet Things And Web Developmen
 
 - [LinkedIn](https://www.linkedin.com/in/therahulpatel)
 - [Twitter](#)
-- [Personal Website](#)
+- [Personal Website](https://therahul-patel.github.io)
 
 ## 📈 GitHub Stats
 
